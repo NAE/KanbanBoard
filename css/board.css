@@ -1,0 +1,11 @@
+body, html {
+	background: #94AFF0;
+}
+
+.body-container {
+  padding-top: 45px;
+}
+
+.board-container {
+	margin: 10px;
+}
